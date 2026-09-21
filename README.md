@@ -1,48 +1,39 @@
+<!-- BANNER SUPERIOR COM CAPSULE / HEADER EMBEDDED -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%">
-    <defs>
-      <linearGradient id="pinkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#d0537d;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#8a284e;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <!-- Fundo Escuro -->
-    <rect width="1200" height="360" fill="#0d1117" rx="12"/>
-    <!-- Faixa em Ângulo (Estilo exatamente igual à foto enviada) -->
-    <path d="M-100,0 L1300,-80 L1300,220 L-100,320 Z" fill="url(#pinkGrad)" />
-    <!-- Texto Centralizado -->
-    <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="52" font-weight="800" fill="#FFFFFF" letter-spacing="1">Dara Damianny</text>
-    <text x="50%" y="62%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="500" fill="#FFFFFF" opacity="0.95">Full-Stack • Java • Spring Boot • React Native • Node.js</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d81b60&height=220&section=header&text=Dara%20Damianny&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20Full-Stack%20%E2%80%A2%20Estudante%20UNIFOR&descSize=18&descAlignY=62&descColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=d0537d&center=true&vCenter=true&width=600&height=40&lines=Desenvolvedora+Full-Stack;Estudante+de+Ciência+da+Computação+@+UNIFOR;Apaixonada+por+tecnologia+e+inovação" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E91E63&center=true&vCenter=true&width=600&height=40&lines=Desenvolvedora+Full-Stack;Estudante+de+Ciência+da+Computação+@+UNIFOR;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+Native" alt="Typing Animation" />
 </p>
 
-<!-- BADGES PRINCIPAIS COM CONTADOR DE VISITAS (Estilo exato da foto) -->
+<!-- TAGLINE E BADGES DE DESTAQUE (Estilo Exato da Imagem) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-d0537d?style=for-the-badge" alt="Full-Stack" />
-  <img src="https://img.shields.io/badge/UNIFOR-0d1117?style=for-the-badge&logo=education&logoColor=white" alt="UNIFOR" />
-  <img src="https://img.shields.io/badge/VISITAS_AO_PERFIL-2EC4B6?style=for-the-badge" alt="Visitas" />
+  <font size="4"><b>Java | Spring Boot | React Native | Node.js</b></font>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL--STACK-d81b60?style=for-the-badge" alt="Full-Stack" />
+  <img src="https://img.shields.io/badge/UNIFOR-1f1b22?style=for-the-badge&logo=education&logoColor=white" alt="UNIFOR" />
+  <img src="https://img.shields.io/badge/VISITAS_AO_PERFIL-E91E63?style=for-the-badge" alt="Visitas ao Perfil" />
+</p>
 
-<!-- SOBRE MIM -->
-<h2>✨ um pouco sobre mim ✨</h2>
+<hr>
 
-<p>👋 Olá! Sou a <b>Dara Damianny</b>, desenvolvedora focada em soluções Full-Stack e estudante de Ciência da Computação na UNIFOR.</p>
+<!-- SEÇÃO 'UM POUCO SOBRE MIM' -->
+<h2>✨ <b>um pouco sobre mim</b> ✨</h2>
 
-<p>💻 Tenho foco na criação de aplicações robustas e modernas, trabalhando no backend com Java e Spring Boot, e criando interfaces fluídas para web e mobile com React Native e JavaScript.</p>
+<p>👋 Olá! Sou a <b>Dara Damianny</b>, desenvolvedora focada em soluções Full-Stack e graduanda em Ciência da Computação na UNIFOR.</p>
 
-<p>🎓 Atualmente, combino os estudos acadêmicos com o desenvolvimento prático de projetos que vão desde aplicações acadêmicas e extensões até jogos 2D e soluções interativas.</p>
+<p>💻 Tenho foco no desenvolvimento de aplicações web e mobile, construindo sistemas escaláveis com Java e Spring Boot no backend, além de interfaces dinâmicas em React Native e JavaScript.</p>
 
-<br>
+<p>🎓 Combino a rotina acadêmica com a criação de projetos práticos, desde extensões de produtividade até jogos educacionais e aplicações integradas a APIs.</p>
 
-<!-- TECNOLOGIAS COM ÍCONES -->
-<h2>🛠️ tecnologias & ferramentas</h2>
+<hr>
+
+<!-- TECNOLOGIAS E FERRAMENTAS -->
+<h2>🛠️ <b>tecnologias & ferramentas</b></h2>
 
 <p align="left">
   <!-- Linguagens & Frameworks -->
@@ -55,67 +46,72 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <br>
-  <!-- Ferramentas & Banco de Dados -->
+  <!-- Banco de Dados & Ferramentas -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </p>
 
-<br>
+<hr>
 
-<!-- PROJETOS EM CARDS (Sem imagens externas) -->
-<h2>📌 projetos em destaque</h2>
+<!-- PROJETOS EM DESTAQUE -->
+<h2>📌 <b>projetos em destaque</b></h2>
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3>📚 Biblioteca</h3>
-      <p>Sistema para gestão de leituras e acervo pessoal de livros, com integração a APIs de consulta e banco de dados.</p>
+      <p>Sistema para gestão de acervo pessoal e lista de leituras, integrado a consulta de API e persistência em banco de dados.</p>
       <p><b>Tecnologias:</b> Spring Boot, MySQL, JavaScript</p>
     </td>
     <td width="33%" valign="top">
       <h3>🎯 Foco nos Estudos</h3>
-      <p>Extensão de navegador voltada para produtividade acadêmica, foco e organização do tempo de estudos.</p>
+      <p>Extensão para navegadores focada na produtividade acadêmica, auxílio na organização de tempo e bloqueio de distrações.</p>
       <p><b>Tecnologias:</b> JavaScript (Manifest V3), HTML5, CSS3</p>
     </td>
     <td width="33%" valign="top">
       <h3>🎮 SaltaMente</h3>
-      <p>Jogo educacional 2D interativo ambientado na escola, focado em aprendizado e desafios lúdicos.</p>
+      <p>Jogo educacional 2D interativo em ambiente escolar voltado ao aprendizado e resolução de problemas de forma lúdica.</p>
       <p><b>Tecnologias:</b> Godot Engine, GDScript, Pixel Art</p>
     </td>
   </tr>
 </table>
 
-<br>
+<hr>
 
-<!-- GITHUB STATS & TOP LANGUAGES -->
-<h2>📊 estatísticas do github</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daradamianny&show_icons=true&theme=rose_pine&bg_color=0d1117&title_color=d0537d&icon_color=2EC4B6&text_color=ffffff&border_color=d0537d" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daradamianny&layout=compact&theme=rose_pine&bg_color=0d1117&title_color=d0537d&text_color=ffffff&border_color=d0537d" alt="Top Languages" />
-</p>
-
-<!-- STREAK STATS -->
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=daradamianny&theme=dark&background=0d1117&ring=d0537d&fire=FFD6BA&currStreakLabel=2EC4B6&border=d0537d" alt="GitHub Streak" />
-</p>
-
-<br>
-
-<!-- ACTIVITY GRAPH -->
-<h2>📈 gráfico de atividade</h2>
+<!-- ESTATÍSTICAS DO GITHUB -->
+<h2>📊 <b>estatísticas do github</b></h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daradamianny&theme=react-dark&bg_color=0d1117&color=d0537d&line=2EC4B6&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daradamianny&show_icons=true&theme=dark&bg_color=0d1117&title_color=d81b60&icon_color=E91E63&text_color=ffffff&border_color=d81b60" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daradamianny&layout=compact&theme=dark&bg_color=0d1117&title_color=d81b60&text_color=ffffff&border_color=d81b60" alt="Top Languages" />
 </p>
 
-<br>
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=daradamianny&theme=dark&background=0d1117&ring=d81b60&fire=E91E63&currStreakLabel=d81b60&border=d81b60" alt="GitHub Streak" />
+</p>
+
+<hr>
+
+<!-- GRÁFICO DE ATIVIDADE -->
+<h2>📈 <b>gráfico de atividade</b></h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daradamianny&theme=react-dark&bg_color=0d1117&color=d81b60&line=E91E63&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+</p>
+
+<hr>
+
+<!-- CONQUISTAS / TROFÉUS -->
+<h2>🏆 <b>conquistas</b></h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daradamianny&theme=flat&column=6&margin-w=10&margin-h=10&bg_color=0d1117&border_color=d81b60&title_color=E91E63" alt="GitHub Trophies" />
+</p>
+
+<hr>
 
 <!-- SNAKE CONTRIBUTION -->
-<h2>🐍 snake contribution</h2>
-
+<h2>🐍 <b>snake contribution</b></h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daradamianny/daradamianny/output/github-contribution-grid-snake-dark.svg">
@@ -124,18 +120,17 @@
   </picture>
 </p>
 
-<br>
+<hr>
 
 <!-- REDES SOCIAIS -->
-<h2>🌐 conecte-se comigo</h2>
-
+<h2>🌐 <b>conecte-se comigo</b></h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/dara-damianny-83358b407/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<br>
+<hr>
 
 <!-- RODAPÉ PERSONALIZADO -->
 <p align="center">
