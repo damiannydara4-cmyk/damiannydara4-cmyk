@@ -1,14 +1,14 @@
-<!-- BANNER SUPERIOR COM CAPSULE / HEADER EMBEDDED -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d81b60&height=220&section=header&text=Dara%20Damianny&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20Full-Stack%20%E2%80%A2%20Estudante%20UNIFOR&descSize=18&descAlignY=62&descColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION COM TEXTO EM ROSA -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E91E63&center=true&vCenter=true&width=600&height=40&lines=Desenvolvedora+Full-Stack;Estudante+de+Ciência+da+Computação+@+UNIFOR;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+Native" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E91E63&center=true&vCenter=true&width=600&height=40&lines=Desenvolvedora+Full-Stack;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UNIFOR;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+Native" alt="Typing Animation" />
 </p>
 
-<!-- TAGLINE E BADGES DE DESTAQUE (Estilo Exato da Imagem) -->
+<!-- BADGES PRINCIPAIS COM CONTADOR DE VISITAS -->
 <p align="center">
   <font size="4"><b>Java | Spring Boot | React Native | Node.js</b></font>
 </p>
@@ -80,7 +80,7 @@
 
 <hr>
 
-<!-- ESTATÍSTICAS DO GITHUB -->
+<!-- ESTATÍSTICAS DO GITHUB (TEMATIZADO EM ROSA/MAGENTA) -->
 <h2>📊 <b>estatísticas do github</b></h2>
 
 <p align="center">
@@ -94,15 +94,15 @@
 
 <hr>
 
-<!-- GRÁFICO DE ATIVIDADE -->
+<!-- GRÁFICO DE ATIVIDADE (TEMATIZADO EM ROSA/MAGENTA) -->
 <h2>📈 <b>gráfico de atividade</b></h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daradamianny&theme=react-dark&bg_color=0d1117&color=d81b60&line=E91E63&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daradamianny&bg_color=0d1117&color=d81b60&line=E91E63&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Activity Graph" />
 </p>
 
 <hr>
 
-<!-- CONQUISTAS / TROFÉUS -->
+<!-- CONQUISTAS / TROFÉUS (TEMATIZADO EM ROSA) -->
 <h2>🏆 <b>conquistas</b></h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=daradamianny&theme=flat&column=6&margin-w=10&margin-h=10&bg_color=0d1117&border_color=d81b60&title_color=E91E63" alt="GitHub Trophies" />
@@ -134,5 +134,5 @@
 
 <!-- RODAPÉ PERSONALIZADO -->
 <p align="center">
-  <sub><i>Desenvolvido com 🤍 por Dara Damianny | "Code, Learn, Repeat"</i></sub>
+  <sub><i>Desenvolvido com 🩷 por Dara Damianny | "Code, Learn, Repeat"</i></sub>
 </p>
