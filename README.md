@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d81b60&height=220&section=header&text=Dara%20Damianny&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20Full-Stack%20%E2%80%A2%20Estudante%20UNIFOR&descSize=18&descAlignY=62&descColor=ffffff" width="100%" alt="Header Banner" />
 </p>
@@ -84,12 +83,12 @@
 <h2>📊 <b>estatísticas do github</b></h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daradamianny&show_icons=true&theme=dark&bg_color=0d1117&title_color=d81b60&icon_color=E91E63&text_color=ffffff&border_color=d81b60" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daradamianny&layout=compact&theme=dark&bg_color=0d1117&title_color=d81b60&text_color=ffffff&border_color=d81b60" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daradamianny&show_icons=true&bg_color=0d1117&title_color=d81b60&icon_color=E91E63&text_color=ffffff&border_color=d81b60" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daradamianny&layout=compact&bg_color=0d1117&title_color=d81b60&text_color=ffffff&border_color=d81b60" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=daradamianny&theme=dark&background=0d1117&ring=d81b60&fire=E91E63&currStreakLabel=d81b60&border=d81b60" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=daradamianny&background=0d1117&ring=d81b60&fire=E91E63&currStreakLabel=d81b60&border=d81b60" alt="GitHub Streak" />
 </p>
 
 <hr>
